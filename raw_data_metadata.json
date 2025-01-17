@@ -35005,8 +35005,8 @@
             }
         },
         "theme": {
-            "themeCode": "Environment > Domestic environment",
-            "themeDescription": "Environment > Domestic environment"
+            "themeCode": "Housing conditions",
+            "themeDescription": "Housing conditions"
         },
         "data_content": [
             {
@@ -35035,506 +35035,566 @@
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "ciCode": "ci1",
-                "related_parameter": "IRIS"
+                "related_parameter": null
             },
             {
                 "dataName": "LAB_IRIS",
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "ciCode": "ci2",
-                "related_parameter": "IRIS"
+                "related_parameter": null
             },
             {
                 "dataName": "P21_LOG",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci1"
+                "indicatorCode": "ei1"
             },
             {
                 "dataName": "P21_RP",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci2"
+                "indicatorCode": "ei2"
             },
             {
                 "dataName": "P21_RSECOCC",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci3"
+                "indicatorCode": "ei3"
             },
             {
                 "dataName": "P21_LOGVAC",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci4"
+                "indicatorCode": "ei4"
             },
             {
                 "dataName": "P21_MAISON",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci5"
+                "indicatorCode": "ei5"
             },
             {
                 "dataName": "P21_APPART",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci6"
+                "indicatorCode": "ei6"
             },
             {
                 "dataName": "P21_RP_1P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci7"
+                "indicatorCode": "ei7"
             },
             {
                 "dataName": "P21_RP_2P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci8"
+                "indicatorCode": "ei8"
             },
             {
                 "dataName": "P21_RP_3P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci9"
+                "indicatorCode": "ei9"
             },
             {
                 "dataName": "P21_RP_4P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci10"
+                "indicatorCode": "ei10"
             },
             {
                 "dataName": "P21_RP_5PP",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci11"
+                "indicatorCode": "ei11"
             },
             {
                 "dataName": "P21_NBPI_RP",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci12"
+                "indicatorCode": "ei12"
             },
             {
                 "dataName": "P21_RPMAISON",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci13"
+                "indicatorCode": "ei13"
             },
             {
                 "dataName": "P21_NBPI_RPMAISON",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci14"
+                "indicatorCode": "ei14"
             },
             {
                 "dataName": "P21_RPAPPART",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci15"
+                "indicatorCode": "ei15"
             },
             {
                 "dataName": "P21_NBPI_RPAPPART",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci16"
+                "indicatorCode": "ei16"
             },
             {
                 "dataName": "P21_RP_M30M2",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci17"
+                "indicatorCode": "ei17"
             },
             {
                 "dataName": "P21_RP_3040M2",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci18"
+                "indicatorCode": "ei18"
             },
             {
                 "dataName": "P21_RP_4060M2",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci19"
+                "indicatorCode": "ei19"
             },
             {
                 "dataName": "P21_RP_6080M2",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci20"
+                "indicatorCode": "ei20"
             },
             {
                 "dataName": "P21_RP_80100M2",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci21"
+                "indicatorCode": "ei21"
             },
             {
                 "dataName": "P21_RP_100120M2",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci22"
+                "indicatorCode": "ei22"
             },
             {
                 "dataName": "P21_RP_120M2P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci23"
+                "indicatorCode": "ei23"
             },
             {
                 "dataName": "P21_RP_ACHTOT",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci24"
+                "indicatorCode": "ei24"
             },
             {
                 "dataName": "P21_RP_ACH19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci25"
+                "indicatorCode": "ei25"
             },
             {
                 "dataName": "P21_RP_ACH45",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci26"
+                "indicatorCode": "ei26"
             },
             {
                 "dataName": "P21_RP_ACH70",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci27"
+                "indicatorCode": "ei27"
             },
             {
                 "dataName": "P21_RP_ACH90",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci28"
+                "indicatorCode": "ei28"
             },
             {
                 "dataName": "P21_RP_ACH05",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci29"
+                "indicatorCode": "ei29"
             },
             {
                 "dataName": "P21_RP_ACH18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci30"
+                "indicatorCode": "ei30"
             },
             {
                 "dataName": "P21_RPMAISON_ACHTOT",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci31"
+                "indicatorCode": "ei31"
             },
             {
                 "dataName": "P21_RPMAISON_ACH19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci32"
+                "indicatorCode": "ei32"
             },
             {
                 "dataName": "P21_RPMAISON_ACH45",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci33"
+                "indicatorCode": "ei33"
             },
             {
                 "dataName": "P21_RPMAISON_ACH70",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci34"
+                "indicatorCode": "ei34"
             },
             {
                 "dataName": "P21_RPMAISON_ACH90",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci35"
+                "indicatorCode": "ei35"
             },
             {
                 "dataName": "P21_RPMAISON_ACH05",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci36"
+                "indicatorCode": "ei36"
             },
             {
                 "dataName": "P21_RPMAISON_ACH18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci37"
+                "indicatorCode": "ei37"
             },
             {
                 "dataName": "P21_RPAPPART_ACHTOT",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci38"
+                "indicatorCode": "ei38"
             },
             {
                 "dataName": "P21_RPAPPART_ACH19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci39"
+                "indicatorCode": "ei39"
             },
             {
                 "dataName": "P21_RPAPPART_ACH45",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci40"
+                "indicatorCode": "ei40"
             },
             {
                 "dataName": "P21_RPAPPART_ACH70",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci41"
+                "indicatorCode": "ei41"
             },
             {
                 "dataName": "P21_RPAPPART_ACH90",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci42"
+                "indicatorCode": "ei42"
             },
             {
                 "dataName": "P21_RPAPPART_ACH05",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci43"
+                "indicatorCode": "ei43"
             },
             {
                 "dataName": "P21_RPAPPART_ACH18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci44"
+                "indicatorCode": "ei44"
             },
             {
                 "dataName": "P21_MEN",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci45"
+                "indicatorCode": "ei45"
             },
             {
                 "dataName": "P21_MEN_ANEM0002",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci46"
+                "indicatorCode": "ei46"
             },
             {
                 "dataName": "P21_MEN_ANEM0204",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci47"
+                "indicatorCode": "ei47"
             },
             {
                 "dataName": "P21_MEN_ANEM0509",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci48"
+                "indicatorCode": "ei48"
             },
             {
                 "dataName": "P21_MEN_ANEM10P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci49"
+                "indicatorCode": "ei49"
             },
             {
                 "dataName": "P21_PMEN",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci50"
+                "indicatorCode": "ei50"
             },
             {
                 "dataName": "P21_PMEN_ANEM0002",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci51"
+                "indicatorCode": "ei51"
             },
             {
                 "dataName": "P21_PMEN_ANEM0204",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci52"
+                "indicatorCode": "ei52"
             },
             {
                 "dataName": "P21_PMEN_ANEM0509",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci53"
+                "indicatorCode": "ei53"
             },
             {
                 "dataName": "P21_PMEN_ANEM10P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci54"
+                "indicatorCode": "ei54"
             },
             {
                 "dataName": "P21_NBPI_RP_ANEM0002",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci55"
+                "indicatorCode": "ei55"
             },
             {
                 "dataName": "P21_NBPI_RP_ANEM0204",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci56"
+                "indicatorCode": "ei56"
             },
             {
                 "dataName": "P21_NBPI_RP_ANEM0509",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci57"
+                "indicatorCode": "ei57"
             },
             {
                 "dataName": "P21_NBPI_RP_ANEM10P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci58"
+                "indicatorCode": "ei58"
             },
             {
                 "dataName": "P21_RP_PROP",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci59"
+                "indicatorCode": "ei59"
             },
             {
                 "dataName": "P21_RP_LOC",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci60"
+                "indicatorCode": "ei60"
             },
             {
                 "dataName": "P21_RP_LOCHLMV",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci61"
+                "indicatorCode": "ei61"
             },
             {
                 "dataName": "P21_RP_GRAT",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci62"
+                "indicatorCode": "ei62"
             },
             {
                 "dataName": "P21_NPER_RP",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci63"
+                "indicatorCode": "ei63"
             },
             {
                 "dataName": "P21_NPER_RP_PROP",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci64"
+                "indicatorCode": "ei64"
             },
             {
                 "dataName": "P21_NPER_RP_LOC",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci65"
+                "indicatorCode": "ei65"
             },
             {
                 "dataName": "P21_NPER_RP_LOCHLMV",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci66"
+                "indicatorCode": "ei66"
             },
             {
                 "dataName": "P21_NPER_RP_GRAT",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci67"
+                "indicatorCode": "ei67"
             },
             {
                 "dataName": "P21_ANEM_RP",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci68"
+                "indicatorCode": "ei68"
             },
             {
                 "dataName": "P21_ANEM_RP_PROP",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci69"
+                "indicatorCode": "ei69"
             },
             {
                 "dataName": "P21_ANEM_RP_LOC",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci70"
+                "indicatorCode": "ei70"
             },
             {
                 "dataName": "P21_ANEM_RP_LOCHLMV",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci71"
+                "indicatorCode": "ei71"
             },
             {
                 "dataName": "P21_ANEM_RP_GRAT",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci72"
+                "indicatorCode": "ei72"
             },
             {
                 "dataName": "P21_RP_SDB",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci73"
+                "indicatorCode": "ei73"
             },
             {
                 "dataName": "P21_RP_CCCOLL",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci74"
+                "indicatorCode": "ei74"
             },
             {
                 "dataName": "P21_RP_CCIND",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci75"
+                "indicatorCode": "ei75"
             },
             {
                 "dataName": "P21_RP_CINDELEC",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci76"
+                "indicatorCode": "ei76"
+            },
+            {
+                "dataName": "P21_RP_ELEC",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "indicatorCode": "ei77"
+            },
+            {
+                "dataName": "P21_RP_EAUCH",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "indicatorCode": "ei78"
+            },
+            {
+                "dataName": "P21_RP_BDWC",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "indicatorCode": "ei79"
+            },
+            {
+                "dataName": "P21_RP_CHOS",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "indicatorCode": "ei80"
+            },
+            {
+                "dataName": "P21_RP_CLIM",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "indicatorCode": "ei81"
+            },
+            {
+                "dataName": "P21_RP_TTEGOU",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "indicatorCode": "ei82"
             },
             {
                 "dataName": "P21_RP_GARL",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci77"
+                "indicatorCode": "ei83"
             },
             {
                 "dataName": "P21_RP_VOIT1P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci78"
+                "indicatorCode": "ei84"
             },
             {
                 "dataName": "P21_RP_VOIT1",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci79"
+                "indicatorCode": "ei85"
             },
             {
                 "dataName": "P21_RP_VOIT2P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci80"
+                "indicatorCode": "ei86"
+            },
+            {
+                "dataName": "P21_RP_HABFOR",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "indicatorCode": "ei87"
+            },
+            {
+                "dataName": "P21_RP_CASE",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "indicatorCode": "ei88"
+            },
+            {
+                "dataName": "P21_RP_MIBOIS",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "indicatorCode": "ei89"
+            },
+            {
+                "dataName": "P21_RP_MIDUR",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "indicatorCode": "ei90"
             },
             {
                 "dataName": "C21_RP_HSTU1P",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci81"
+                "indicatorCode": "ei91"
             },
             {
                 "dataName": "C21_RP_HSTU1P_SUROCC",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci82"
+                "indicatorCode": "ei92"
             }
         ]
     },
@@ -36571,8 +36631,8 @@
             }
         },
         "theme": {
-            "themeCode": "Environment > Financial resources",
-            "themeDescription": "Environment > Financial resources"
+            "themeCode": "Income and Wealth",
+            "themeDescription": "Income and Wealth"
         },
         "data_content": [
             {
@@ -36601,158 +36661,158 @@
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "ciCode": "ci1",
-                "related_parameter": "IRIS"
+                "related_parameter": null
             },
             {
                 "dataName": "LIBCOM",
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "ciCode": "ci2",
-                "related_parameter": "COM"
+                "related_parameter": null
             },
             {
                 "dataName": "DEC_PIMP18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci1"
+                "indicatorCode": "ei1"
             },
             {
                 "dataName": "DEC_TP6018",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci2"
+                "indicatorCode": "ei2"
             },
             {
                 "dataName": "DEC_Q118",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci3"
+                "indicatorCode": "ei3"
             },
             {
                 "dataName": "DEC_MED18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci4"
+                "indicatorCode": "ei4"
             },
             {
                 "dataName": "DEC_Q318",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci5"
+                "indicatorCode": "ei5"
             },
             {
                 "dataName": "DEC_EQ18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci6"
+                "indicatorCode": "ei6"
             },
             {
                 "dataName": "DEC_D118",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci7"
+                "indicatorCode": "ei7"
             },
             {
                 "dataName": "DEC_D218",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci8"
+                "indicatorCode": "ei8"
             },
             {
                 "dataName": "DEC_D318",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci9"
+                "indicatorCode": "ei9"
             },
             {
                 "dataName": "DEC_D418",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci10"
+                "indicatorCode": "ei10"
             },
             {
                 "dataName": "DEC_D618",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci11"
+                "indicatorCode": "ei11"
             },
             {
                 "dataName": "DEC_D718",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci12"
+                "indicatorCode": "ei12"
             },
             {
                 "dataName": "DEC_D818",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci13"
+                "indicatorCode": "ei13"
             },
             {
                 "dataName": "DEC_D918",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci14"
+                "indicatorCode": "ei14"
             },
             {
                 "dataName": "DEC_RD18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci15"
+                "indicatorCode": "ei15"
             },
             {
                 "dataName": "DEC_S80S2018",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci16"
+                "indicatorCode": "ei16"
             },
             {
                 "dataName": "DEC_GI18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci17"
+                "indicatorCode": "ei17"
             },
             {
                 "dataName": "DEC_PACT18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci18"
+                "indicatorCode": "ei18"
             },
             {
                 "dataName": "DEC_PTSA18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci19"
+                "indicatorCode": "ei19"
             },
             {
                 "dataName": "DEC_PCHO18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci20"
+                "indicatorCode": "ei20"
             },
             {
                 "dataName": "DEC_PBEN18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci21"
+                "indicatorCode": "ei21"
             },
             {
                 "dataName": "DEC_PPEN18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci22"
+                "indicatorCode": "ei22"
             },
             {
                 "dataName": "DEC_PAUT18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci23"
+                "indicatorCode": "ei23"
             },
             {
                 "dataName": "DEC_NOTE18",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci24"
+                "indicatorCode": "ei24"
             }
         ]
     },
@@ -37810,8 +37870,8 @@
             }
         },
         "theme": {
-            "themeCode": "Environment > Financial resources",
-            "themeDescription": "Environment > Financial resources"
+            "themeCode": "Income and Wealth",
+            "themeDescription": "Income and Wealth"
         },
         "data_content": [
             {
@@ -37840,158 +37900,158 @@
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "ciCode": "ci1",
-                "related_parameter": "IRIS"
+                "related_parameter": null
             },
             {
                 "dataName": "LIBCOM",
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "ciCode": "ci2",
-                "related_parameter": "COM"
+                "related_parameter": null
             },
             {
                 "dataName": "DEC_PIMP19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci1"
+                "indicatorCode": "ei1"
             },
             {
                 "dataName": "DEC_TP6019",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci2"
+                "indicatorCode": "ei2"
             },
             {
                 "dataName": "DEC_Q119",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci3"
+                "indicatorCode": "ei3"
             },
             {
                 "dataName": "DEC_MED19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci4"
+                "indicatorCode": "ei4"
             },
             {
                 "dataName": "DEC_Q319",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci5"
+                "indicatorCode": "ei5"
             },
             {
                 "dataName": "DEC_EQ19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci6"
+                "indicatorCode": "ei6"
             },
             {
                 "dataName": "DEC_D119",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci7"
+                "indicatorCode": "ei7"
             },
             {
                 "dataName": "DEC_D219",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci8"
+                "indicatorCode": "ei8"
             },
             {
                 "dataName": "DEC_D319",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci9"
+                "indicatorCode": "ei9"
             },
             {
                 "dataName": "DEC_D419",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci10"
+                "indicatorCode": "ei10"
             },
             {
                 "dataName": "DEC_D619",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci11"
+                "indicatorCode": "ei11"
             },
             {
                 "dataName": "DEC_D719",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci12"
+                "indicatorCode": "ei12"
             },
             {
                 "dataName": "DEC_D819",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci13"
+                "indicatorCode": "ei13"
             },
             {
                 "dataName": "DEC_D919",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci14"
+                "indicatorCode": "ei14"
             },
             {
                 "dataName": "DEC_RD19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci15"
+                "indicatorCode": "ei15"
             },
             {
                 "dataName": "DEC_S80S2019",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci16"
+                "indicatorCode": "ei16"
             },
             {
                 "dataName": "DEC_GI19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci17"
+                "indicatorCode": "ei17"
             },
             {
                 "dataName": "DEC_PACT19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci18"
+                "indicatorCode": "ei18"
             },
             {
                 "dataName": "DEC_PTSA19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci19"
+                "indicatorCode": "ei19"
             },
             {
                 "dataName": "DEC_PCHO19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci20"
+                "indicatorCode": "ei20"
             },
             {
                 "dataName": "DEC_PBEN19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci21"
+                "indicatorCode": "ei21"
             },
             {
                 "dataName": "DEC_PPEN19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci22"
+                "indicatorCode": "ei22"
             },
             {
                 "dataName": "DEC_PAUT19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci23"
+                "indicatorCode": "ei23"
             },
             {
                 "dataName": "DEC_NOTE19",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci24"
+                "indicatorCode": "ei24"
             }
         ]
     },
@@ -38011,7 +38071,7 @@
         "space_time": {
             "space": {
                 "spatialGranularity": {
-                    "spatialGranularity": "IRIS"
+                    "spatialGranularity": "GEOPOINT"
                 },
                 "spatialScope": {
                     "spatialScopeLevel": "COMMUNE",
@@ -39918,8 +39978,8 @@
             }
         },
         "theme": {
-            "themeCode": "Environment > Financial resources",
-            "themeDescription": "Environment > Financial resources"
+            "themeCode": "Income and Wealth",
+            "themeDescription": "Income and Wealth"
         },
         "data_content": [
             {
@@ -39927,13 +39987,20 @@
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "parameterCode": "sp1",
+                "spatialLevel": "GEOPOINT"
+            },
+            {
+                "dataName": "IRIS",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "parameterCode": "sp2",
                 "spatialLevel": "IRIS"
             },
             {
                 "dataName": "COM",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "parameterCode": "sp2",
+                "parameterCode": "sp3",
                 "spatialLevel": "COMMUNE"
             },
             {
@@ -39948,158 +40015,158 @@
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "ciCode": "ci1",
-                "related_parameter": "IRIS"
+                "related_parameter": null
             },
             {
                 "dataName": "LIBCOM",
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "ciCode": "ci2",
-                "related_parameter": "COM"
+                "related_parameter": null
             },
             {
                 "dataName": "DEC_PIMP20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci1"
+                "indicatorCode": "ei1"
             },
             {
                 "dataName": "DEC_TP6020",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci2"
+                "indicatorCode": "ei2"
             },
             {
                 "dataName": "DEC_Q120",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci3"
+                "indicatorCode": "ei3"
             },
             {
                 "dataName": "DEC_MED20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci4"
+                "indicatorCode": "ei4"
             },
             {
                 "dataName": "DEC_Q320",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci5"
+                "indicatorCode": "ei5"
             },
             {
                 "dataName": "DEC_EQ20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci6"
+                "indicatorCode": "ei6"
             },
             {
                 "dataName": "DEC_D120",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci7"
+                "indicatorCode": "ei7"
             },
             {
                 "dataName": "DEC_D220",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci8"
+                "indicatorCode": "ei8"
             },
             {
                 "dataName": "DEC_D320",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci9"
+                "indicatorCode": "ei9"
             },
             {
                 "dataName": "DEC_D420",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci10"
+                "indicatorCode": "ei10"
             },
             {
                 "dataName": "DEC_D620",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci11"
+                "indicatorCode": "ei11"
             },
             {
                 "dataName": "DEC_D720",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci12"
+                "indicatorCode": "ei12"
             },
             {
                 "dataName": "DEC_D820",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci13"
+                "indicatorCode": "ei13"
             },
             {
                 "dataName": "DEC_D920",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci14"
+                "indicatorCode": "ei14"
             },
             {
                 "dataName": "DEC_RD20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci15"
+                "indicatorCode": "ei15"
             },
             {
                 "dataName": "DEC_S80S2020",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci16"
+                "indicatorCode": "ei16"
             },
             {
                 "dataName": "DEC_GI20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci17"
+                "indicatorCode": "ei17"
             },
             {
                 "dataName": "DEC_PACT20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci18"
+                "indicatorCode": "ei18"
             },
             {
                 "dataName": "DEC_PTSA20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci19"
+                "indicatorCode": "ei19"
             },
             {
                 "dataName": "DEC_PCHO20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci20"
+                "indicatorCode": "ei20"
             },
             {
                 "dataName": "DEC_PBEN20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci21"
+                "indicatorCode": "ei21"
             },
             {
                 "dataName": "DEC_PPEN20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci22"
+                "indicatorCode": "ei22"
             },
             {
                 "dataName": "DEC_PAUT20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci23"
+                "indicatorCode": "ei23"
             },
             {
                 "dataName": "DEC_NOTE20",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci24"
+                "indicatorCode": "ei24"
             }
         ]
     },
@@ -42026,8 +42093,8 @@
             }
         },
         "theme": {
-            "themeCode": "Environment > Financial resources",
-            "themeDescription": "Environment > Financial resources"
+            "themeCode": "Income and Wealth",
+            "themeDescription": "Income and Wealth"
         },
         "data_content": [
             {
@@ -42056,164 +42123,164 @@
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "ciCode": "ci1",
-                "related_parameter": "IRIS"
+                "related_parameter": null
             },
             {
                 "dataName": "LIBCOM",
                 "dataDescription": "Description",
                 "dataType": "Data type",
                 "ciCode": "ci2",
-                "related_parameter": "COM"
+                "related_parameter": null
             },
             {
                 "dataName": "DEC_PIMP21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci1"
+                "indicatorCode": "ei1"
             },
             {
                 "dataName": "DEC_TP6021",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci2"
+                "indicatorCode": "ei2"
             },
             {
                 "dataName": "DEC_INCERT21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci3"
+                "indicatorCode": "ei3"
             },
             {
                 "dataName": "DEC_Q121",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci4"
+                "indicatorCode": "ei4"
             },
             {
                 "dataName": "DEC_MED21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci5"
+                "indicatorCode": "ei5"
             },
             {
                 "dataName": "DEC_Q321",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci6"
+                "indicatorCode": "ei6"
             },
             {
                 "dataName": "DEC_EQ21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci7"
+                "indicatorCode": "ei7"
             },
             {
                 "dataName": "DEC_D121",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci8"
+                "indicatorCode": "ei8"
             },
             {
                 "dataName": "DEC_D221",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci9"
+                "indicatorCode": "ei9"
             },
             {
                 "dataName": "DEC_D321",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci10"
+                "indicatorCode": "ei10"
             },
             {
                 "dataName": "DEC_D421",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci11"
+                "indicatorCode": "ei11"
             },
             {
                 "dataName": "DEC_D621",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci12"
+                "indicatorCode": "ei12"
             },
             {
                 "dataName": "DEC_D721",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci13"
+                "indicatorCode": "ei13"
             },
             {
                 "dataName": "DEC_D821",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci14"
+                "indicatorCode": "ei14"
             },
             {
                 "dataName": "DEC_D921",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci15"
+                "indicatorCode": "ei15"
             },
             {
                 "dataName": "DEC_RD21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci16"
+                "indicatorCode": "ei16"
             },
             {
                 "dataName": "DEC_S80S2021",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci17"
+                "indicatorCode": "ei17"
             },
             {
                 "dataName": "DEC_GI21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci18"
+                "indicatorCode": "ei18"
             },
             {
                 "dataName": "DEC_PACT21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci19"
+                "indicatorCode": "ei19"
             },
             {
                 "dataName": "DEC_PTSA21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci20"
+                "indicatorCode": "ei20"
             },
             {
                 "dataName": "DEC_PCHO21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci21"
+                "indicatorCode": "ei21"
             },
             {
                 "dataName": "DEC_PBEN21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci22"
+                "indicatorCode": "ei22"
             },
             {
                 "dataName": "DEC_PPEN21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci23"
+                "indicatorCode": "ei23"
             },
             {
                 "dataName": "DEC_PAUT21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci24"
+                "indicatorCode": "ei24"
             },
             {
                 "dataName": "DEC_NOTE21",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "indicatorCode": "ci25"
+                "indicatorCode": "ei25"
             }
         ]
     },
@@ -42272,8 +42339,8 @@
             }
         },
         "theme": {
-            "themeCode": "Level of Independence > Work capacity - education and skills",
-            "themeDescription": "Level of Independence > Work capacity - education and skills"
+            "themeCode": "Education and skills",
+            "themeDescription": "Education and skills"
         },
         "data_content": [
             {
@@ -42312,81 +42379,81 @@
                 "temporalLevel": "DATE"
             },
             {
-                "dataName": "code_postal_uai",
-                "dataDescription": "Description",
-                "dataType": "Data type",
-                "ciCode": "ci1",
-                "related_parameter": "position"
-            },
-            {
-                "dataName": "coordonnee_x",
-                "dataDescription": "Description",
-                "dataType": "Data type",
-                "ciCode": "ci2",
-                "related_parameter": "position"
-            },
-            {
-                "dataName": "coordonnee_y",
-                "dataDescription": "Description",
-                "dataType": "Data type",
-                "ciCode": "ci3",
-                "related_parameter": "position"
-            },
-            {
                 "dataName": "boite_postale_uai",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "ciCode": "ci4",
-                "related_parameter": "position"
+                "ciCode": "ci1",
+                "related_parameter": null
             },
             {
                 "dataName": "adresse_uai",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "ciCode": "ci5",
-                "related_parameter": "position"
+                "ciCode": "ci2",
+                "related_parameter": null
             },
             {
                 "dataName": "lieu_dit_uai",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "ciCode": "ci6",
-                "related_parameter": "position"
+                "ciCode": "ci3",
+                "related_parameter": null
             },
             {
-                "dataName": "latitude",
+                "dataName": "code_postal_uai",
                 "dataDescription": "Description",
                 "dataType": "Data type",
-                "ciCode": "ci7",
-                "related_parameter": "position"
-            },
-            {
-                "dataName": "longitude",
-                "dataDescription": "Description",
-                "dataType": "Data type",
-                "ciCode": "ci8",
-                "related_parameter": "position"
-            },
-            {
-                "dataName": "libelle_departement",
-                "dataDescription": "Description",
-                "dataType": "Data type",
-                "ciCode": "ci9",
-                "related_parameter": "code_departement"
-            },
-            {
-                "dataName": "libelle_region",
-                "dataDescription": "Description",
-                "dataType": "Data type",
-                "ciCode": "ci10",
-                "related_parameter": "code_region"
+                "ciCode": "ci4",
+                "related_parameter": null
             },
             {
                 "dataName": "libelle_commune",
                 "dataDescription": "Description",
                 "dataType": "Data type",
+                "ciCode": "ci5",
+                "related_parameter": null
+            },
+            {
+                "dataName": "coordonnee_x",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "ciCode": "ci6",
+                "related_parameter": null
+            },
+            {
+                "dataName": "coordonnee_y",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "ciCode": "ci7",
+                "related_parameter": null
+            },
+            {
+                "dataName": "latitude",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "ciCode": "ci8",
+                "related_parameter": null
+            },
+            {
+                "dataName": "longitude",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "ciCode": "ci9",
+                "related_parameter": null
+            },
+            {
+                "dataName": "libelle_departement",
+                "dataDescription": "Description",
+                "dataType": "Data type",
+                "ciCode": "ci10",
+                "related_parameter": null
+            },
+            {
+                "dataName": "libelle_region",
+                "dataDescription": "Description",
+                "dataType": "Data type",
                 "ciCode": "ci11",
-                "related_parameter": "code_commune"
+                "related_parameter": null
             },
             {
                 "dataName": "etat_etablissement",

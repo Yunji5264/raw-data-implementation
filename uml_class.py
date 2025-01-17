@@ -269,24 +269,21 @@ class Complementary_Information(Data_Content):
     def to_dict(self):
         data = super().to_dict()
         data["ciCode"] = self.ciCode
-        # Check if the related_parameter has a 'to_dict' method before calling it
-        if hasattr(self.related_parameter, 'to_dict'):
+        if isinstance(self.related_parameter, (Spatial_Parameter, Temporal_Parameter)):
             data["related_parameter"] = self.related_parameter.to_dict()
         else:
-            data["related_parameter"] = str(self.related_parameter)  # Use str() to safely convert None or other types
+            data["related_parameter"] = None  # Safely handle None or unrecognized types
         return data
 
     @classmethod
     def from_dict(cls, data):
+        related_parameter_data = data.get('related_parameter')
         related_parameter = None
-        param_data = data.get('related_parameter')
-
-        if isinstance(param_data, dict):
-            if "spatialLevel" in param_data:
-                related_parameter = Spatial_Parameter.from_dict(param_data)
-            elif "temporalLevel" in param_data:
-                related_parameter = Temporal_Parameter.from_dict(param_data)
-            # Add more conditions as necessary for other parameter types
+        if related_parameter_data:
+            if 'spatialLevel' in related_parameter_data:
+                related_parameter = Spatial_Parameter.from_dict(related_parameter_data)
+            elif 'temporalLevel' in related_parameter_data:
+                related_parameter = Temporal_Parameter.from_dict(related_parameter_data)
 
         return cls(
             data["dataName"],

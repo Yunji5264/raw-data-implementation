@@ -1,73 +1,50 @@
 # Folder structure that has already been created
 theme_folder_structure = {
-    "Physical Health": {
-        "Pain and discomfort": {},
-        "Energy and fatigue": {},
-        "Sleep and rest": {}
+    "Income and Wealth": {
+        "Current and future consumption possibilities": {},
+        "Realised material well-being": {},
+        "Satisfaction with material conditions": {}
     },
-    "Psychological Health": {
-        "Positive feelings": {},
-        "Thinking, learning, memory, and concentration": {
-            "Speed": {},
-            "Clarity": {}
-        },
-        "Self-esteem": {},
-        "Body image and appearance": {},
-        "Negative feelings": {}
+    "Jobs and Earnings": {
+        "Quantity of jobs": {},
+        "Quality of jobs": {}
     },
-    "Level of Independence": {
-        "Mobility": {},
-        "Activities of daily living": {
-            "Taking care of oneself": {},
-            "Managing one's belongings appropriately": {}
-        },
-        "Dependence on medication and medical aids": {},
-        "Work capacity - education and skills": {}
+    "Housing conditions": {
+        "Length of life": {},
+        "Morbidity in its  different dimensions": {}
     },
-    "Civic Engagement and Governance": {},
-    "Subjective Well-being": {},
-    "Work-Life Balance": {},
-    "Environment": {
-        "Comfort and security": {},
-        "Domestic environment": {
-            "Crowding": {},
-            "Available space": {},
-            "Cleanliness": {},
-            "Opportunities for privacy": {},
-            "Available equipment": {},
-            "Building construction quality": {}
-        },
-        "Financial resources": {
-            "Independence": {},
-            "Feeling of having enough": {}
-        },
-        "Health care and social care": {
-            "Accessibility": {},
-            "Quality": {}
-        },
-        "Opportunities to acquire new information and skills": {},
-        "Participation in recreational activities and leisure opportunities": {},
-        "Physical environment": {
-            "Pollution": {},
-            "Noise": {},
-            "Traffic": {},
-            "Climate": {}
-        },
-        "Infrastructure": {
-            "Transport": {},
-            "Drinking water": {},
-            "Gas": {},
-            "Electricity": {},
-            "Sewage networks": {}
-        },
-        "Urbanisation level": {}
+    "Work-life balance": {
+        "Work-life time balance": {},
+        "Satisfacton with work-life time balance": {},
+        "Ability to reconcile family and work": {}
     },
-    "Social Relationships": {
-        "Personal relations": {},
-        "Social support": {},
-        "Sexual activity": {}
+    "Education and skills": {
+        "Quantity of education": {},
+        "Quality of education": {}
     },
-    "Spirituality/Religion/Personal Beliefs": {}
+    "Social connections": {
+        "Personal relationships": {},
+        "Community relationships": {},
+        "Norms and values": {}
+    },
+    "Civic engagement and governance": {
+        "Civic engagement": {},
+        "Quality of governance": {},
+        "People's confidence in their public institutions": {}
+    },
+    "Environmental quality": {
+        "Quality of environment": {},
+        "Impact of environmental hazards on human health": {},
+        "Subjective perceptions of environment": {}
+    },
+    "Personal security": {
+        "Opportunities to live in a safe environment": {},
+        "Fear of crime": {}
+    },
+    "Subjective Well-Being": {
+        "Evaluation of life": {},
+        "Positive and negative feelings": {}
+    }
 }
 
 
