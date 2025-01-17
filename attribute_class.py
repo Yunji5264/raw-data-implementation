@@ -310,7 +310,8 @@ class ColumnClassifierApp:
                 combo.pack(side="left", padx=10)
                 combo.set("Select")
                 combo.bind("<<ComboboxSelected>>",
-                           lambda e, col=col: self.add_ci(col, combo.get()))
+                           lambda e, col=col, combo=combo: self.add_ci(col,
+                                                                       None if combo.get() == "Select" else combo.get()))
 
 
         # # Display options for selecting related parameter
